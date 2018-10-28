@@ -15,7 +15,7 @@ npm run dev
 npm run build
 
 
-#Features
+##Features
 
 # Show online users
 # Typing... function
