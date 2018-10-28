@@ -2,12 +2,8 @@
 
 > A Simple vue.js project
 
-## Features
 
-# Show online users
-# Typing... function
-
-### Build Setup
+## Build Setup
 
 ``` bash
 # install dependencies
@@ -18,8 +14,12 @@ npm run dev
 
 # build for production with minification
 npm run build
+``` 
 
-
-
+### Features
+```bash
+# Show online users
+# Typing... function
+```
 
 
